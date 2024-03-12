@@ -10,4 +10,4 @@ Ismael Stanley
 Reilson 
 
 
-<img src="https://i.pinimg.com/736x/5e/c9/14/5ec9147dc7195232142600a6280c2a0e.jpg" alt="TechDump">
+<img src="https://cdn.awsli.com.br/300x300/1997/1997350/produto/112091958502bbfc83e.jpg" alt="TechDump">
