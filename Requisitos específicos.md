@@ -1,4 +1,4 @@
-(Requisitos Funcionais) 
+3.1 (Requisitos Funcionais) 
 
   
 
@@ -30,7 +30,7 @@ Notificações: Enviar notificações aos usuários sobre o status de seus pedid
 
   
 
-(Requisitos Não Funcionais) 
+3.2 (Requisitos Não Funcionais) 
 
   
 
@@ -74,7 +74,7 @@ Backup e Recuperação: Implementar rotinas de backup regulares e um plano de re
 
   
 
-(Regras de Negócio) 
+3.3 (Regras de Negócio) 
 
 Cadastro de clientes: Todos os clientes que desejam alugar uma caçamba devem fornecer informações precisas, como nome completo, endereço, telefone de contato e documento de identificação. Esses dados são essenciais para o registro e para entrar em contato em caso de necessidade. 
 
