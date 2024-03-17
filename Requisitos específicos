@@ -1,0 +1,37 @@
+Requisitos Funcionais:
+
+Cadastro de Fornecedores: Permitir que empresas de aluguel de caçambas se cadastrem no programa, fornecendo informações como nome, endereço, tipos de caçambas disponíveis, taxas de aluguel, etc.
+
+Pesquisa de Caçambas: Oferecer uma interface de pesquisa onde os usuários possam buscar caçambas disponíveis para aluguel por localização, tamanho, tipo de resíduo que suportam, etc.
+
+Reserva de Caçambas: Permitir que os usuários façam reservas de caçambas diretamente pelo programa, escolhendo o período de aluguel e fornecendo informações de entrega e coleta.
+
+Acompanhamento de Pedidos: Permitir que os usuários acompanhem o status de seus pedidos de aluguel de caçambas, desde a reserva até a devolução.
+
+Avaliações e Comentários: Permitir que os usuários avaliem e deixem comentários sobre os fornecedores de caçambas e sobre a qualidade do serviço prestado.
+
+Integração de Pagamento: Integrar um sistema de pagamento para que os usuários possam efetuar pagamentos online pelo aluguel das caçambas.
+
+Notificações: Enviar notificações aos usuários sobre o status de seus pedidos, confirmações de reserva, lembretes de devolução, etc.
+
+Requisitos Não Funcionais:
+
+Desempenho: O sistema deve ter tempos de resposta rápidos, mesmo durante períodos de alta demanda, para que os usuários possam fazer reservas rapidamente.
+
+Segurança: Garantir a segurança das informações dos usuários e dos fornecedores de caçambas, utilizando medidas como criptografia, autenticação, autorização, etc.
+
+Disponibilidade: O sistema deve estar disponível 24/7, com tempo de inatividade mínimo para manutenção programada.
+
+Usabilidade: A interface do usuário deve ser intuitiva e fácil de usar, com um design responsivo para diferentes dispositivos.
+
+Escalabilidade: O sistema deve ser capaz de lidar com um aumento significativo no número de usuários e pedidos de aluguel sem comprometer o desempenho.
+
+Compatibilidade: O programa deve ser compatível com diferentes navegadores da web e dispositivos móveis populares.
+
+Privacidade: Garantir a privacidade dos dados dos usuários e conformidade com regulamentações de privacidade, como GDPR.
+
+Manutenibilidade: O código-fonte do programa deve ser bem organizado e documentado para facilitar a manutenção e futuras atualizações.
+
+Localização: O sistema deve suportar múltiplos idiomas e adaptar-se a diferentes regiões geográficas, se aplicável.
+
+Backup e Recuperação: Implementar rotinas de backup regulares e um plano de recuperação de desastres para garantir a integridade dos dados em caso de falhas no sistema.
