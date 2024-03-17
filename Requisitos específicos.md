@@ -1,50 +1,101 @@
-(Requisitos Funcionais:)
+(Requisitos Funcionais) 
 
-Cadastro de Fornecedores: Permitir que empresas de aluguel de caçambas se cadastrem no programa, fornecendo informações como nome, endereço, tipos de caçambas disponíveis, taxas de aluguel, etc.
+  
 
-Pesquisa de Caçambas: Oferecer uma interface de pesquisa onde os usuários possam buscar caçambas disponíveis para aluguel por localização, tamanho, tipo de resíduo que suportam, etc.
+Cadastro de Fornecedores: Permitir que empresas de aluguel de caçambas se cadastrem no programa, fornecendo informações como nome, endereço, tipos de caçambas disponíveis, taxas de aluguel, etc. 
 
-Reserva de Caçambas: Permitir que os usuários façam reservas de caçambas diretamente pelo programa, escolhendo o período de aluguel e fornecendo informações de entrega e coleta.
+  
 
-Acompanhamento de Pedidos: Permitir que os usuários acompanhem o status de seus pedidos de aluguel de caçambas, desde a reserva até a devolução.
+Pesquisa de Caçambas: Oferecer uma interface de pesquisa onde os usuários possam buscar caçambas disponíveis para aluguel por localização, tamanho, tipo de resíduo que suportam, etc. 
 
-Avaliações e Comentários: Permitir que os usuários avaliem e deixem comentários sobre os fornecedores de caçambas e sobre a qualidade do serviço prestado.
+  
 
-Integração de Pagamento: Integrar um sistema de pagamento para que os usuários possam efetuar pagamentos online pelo aluguel das caçambas.
+Reserva de Caçambas: Permitir que os usuários façam reservas de caçambas diretamente pelo programa, escolhendo o período de aluguel e fornecendo informações de entrega e coleta. 
 
-Notificações: Enviar notificações aos usuários sobre o status de seus pedidos, confirmações de reserva, lembretes de devolução, etc.
+  
 
-(Requisitos Não Funcionais:)
+Acompanhamento de Pedidos: Permitir que os usuários acompanhem o status de seus pedidos de aluguel de caçambas, desde a reserva até a devolução. 
 
-Desempenho: O sistema deve ter tempos de resposta rápidos, mesmo durante períodos de alta demanda, para que os usuários possam fazer reservas rapidamente.
+  
 
-Segurança: Garantir a segurança das informações dos usuários e dos fornecedores de caçambas, utilizando medidas como criptografia, autenticação, autorização, etc.
+Avaliações e Comentários: Permitir que os usuários avaliem e deixem comentários sobre os fornecedores de caçambas e sobre a qualidade do serviço prestado. 
 
-Disponibilidade: O sistema deve estar disponível 24/7, com tempo de inatividade mínimo para manutenção programada.
+  
 
-Usabilidade: A interface do usuário deve ser intuitiva e fácil de usar, com um design responsivo para diferentes dispositivos.
+Integração de Pagamento: Integrar um sistema de pagamento para que os usuários possam efetuar pagamentos online pelo aluguel das caçambas. 
 
-Escalabilidade: O sistema deve ser capaz de lidar com um aumento significativo no número de usuários e pedidos de aluguel sem comprometer o desempenho.
+  
 
-Compatibilidade: O programa deve ser compatível com diferentes navegadores da web e dispositivos móveis populares.
+Notificações: Enviar notificações aos usuários sobre o status de seus pedidos, confirmações de reserva, lembretes de devolução, etc. 
 
-Privacidade: Garantir a privacidade dos dados dos usuários e conformidade com regulamentações de privacidade, como GDPR.
+  
 
-Manutenibilidade: O código-fonte do programa deve ser bem organizado e documentado para facilitar a manutenção e futuras atualizações.
+(Requisitos Não Funcionais) 
 
-Localização: O sistema deve suportar múltiplos idiomas e adaptar-se a diferentes regiões geográficas, se aplicável.
+  
 
-Backup e Recuperação: Implementar rotinas de backup regulares e um plano de recuperação de desastres para garantir a integridade dos dados em caso de falhas no sistema.
+Desempenho: O sistema deve ter tempos de resposta rápidos, mesmo durante períodos de alta demanda, para que os usuários possam fazer reservas rapidamente. 
 
-(Regras de Negócio)
-Cadastro de clientes: Todos os clientes que desejam alugar uma caçamba devem fornecer informações precisas, como nome completo, endereço, telefone de contato e documento de identificação. Esses dados são essenciais para o registro e para entrar em contato em caso de necessidade.
+  
 
-Definição de prazos e valores: É fundamental estabelecer claramente os prazos de aluguel das caçambas, bem como os valores associados a cada período de locação. Isso inclui políticas de cobrança por dias extras e possíveis taxas adicionais, como taxa de entrega e recolhimento.
+Segurança: Garantir a segurança das informações dos usuários e dos fornecedores de caçambas, utilizando medidas como criptografia, autenticação, autorização, etc. 
 
-Localização para posicionamento das caçambas: Os clientes devem indicar o local exato onde desejam que a caçamba seja posicionada. É importante ter políticas claras sobre as condições mínimas de acesso e segurança para a colocação da caçamba, garantindo a integridade do equipamento e a segurança no local.
+  
 
-Proibição de resíduos proibidos: Devem ser estabelecidas regras estritas sobre os tipos de resíduos que podem ser descartados nas caçambas. Materiais perigosos, como produtos químicos, materiais inflamáveis ​​ou resíduos biológicos, geralmente são proibidos e devem ser descartados corretamente de acordo com a legislação local.
+Disponibilidade: O sistema deve estar disponível 24/7, com tempo de inatividade mínimo para manutenção programada. 
 
-Manutenção e limpeza das caçambas: A empresa de aluguel de caçambas deve garantir a manutenção regular de seus equipamentos, incluindo a limpeza entre os aluguéis para evitar o acúmulo excessivo de resíduos e odores. Isso não apenas preserva a qualidade das caçambas, mas também promove uma imagem profissional da empresa.
+  
 
-Responsabilidade ambiental: É importante adotar práticas sustentáveis ​​no manuseio dos resíduos coletados nas caçambas. Isso pode incluir parcerias com empresas de reciclagem para a separação e reciclagem adequada de materiais reutilizáveis, contribuindo para a redução do impacto ambiental e a promoção da responsabilidade social corporativa.
+Usabilidade: A interface do usuário deve ser intuitiva e fácil de usar, com um design responsivo para diferentes dispositivos. 
+
+  
+
+Escalabilidade: O sistema deve ser capaz de lidar com um aumento significativo no número de usuários e pedidos de aluguel sem comprometer o desempenho. 
+
+  
+
+Compatibilidade: O programa deve ser compatível com diferentes navegadores da web e dispositivos móveis populares. 
+
+  
+
+Privacidade: Garantir a privacidade dos dados dos usuários e conformidade com regulamentações de privacidade, como GDPR. 
+
+  
+
+Manutenibilidade: O código-fonte do programa deve ser bem organizado e documentado para facilitar a manutenção e futuras atualizações. 
+
+  
+
+Localização: O sistema deve suportar múltiplos idiomas e adaptar-se a diferentes regiões geográficas, se aplicável. 
+
+  
+
+Backup e Recuperação: Implementar rotinas de backup regulares e um plano de recuperação de desastres para garantir a integridade dos dados em caso de falhas no sistema. 
+
+  
+
+(Regras de Negócio) 
+
+Cadastro de clientes: Todos os clientes que desejam alugar uma caçamba devem fornecer informações precisas, como nome completo, endereço, telefone de contato e documento de identificação. Esses dados são essenciais para o registro e para entrar em contato em caso de necessidade. 
+
+  
+
+Definição de prazos e valores: É fundamental estabelecer claramente os prazos de aluguel das caçambas, bem como os valores associados a cada período de locação. Isso inclui políticas de cobrança por dias extras e possíveis taxas adicionais, como taxa de entrega e recolhimento. 
+
+  
+
+Localização para posicionamento das caçambas: Os clientes devem indicar o local exato onde desejam que a caçamba seja posicionada. É importante ter políticas claras sobre as condições mínimas de acesso e segurança para a colocação da caçamba, garantindo a integridade do equipamento e a segurança no local. 
+
+  
+
+Proibição de resíduos proibidos: Devem ser estabelecidas regras estritas sobre os tipos de resíduos que podem ser descartados nas caçambas. Materiais perigosos, como produtos químicos, materiais inflamáveis ou resíduos biológicos, geralmente são proibidos e devem ser descartados corretamente de acordo com a legislação local. 
+
+  
+
+Manutenção e limpeza das caçambas: A empresa de aluguel de caçambas deve garantir a manutenção regular de seus equipamentos, incluindo a limpeza entre os aluguéis para evitar o acúmulo excessivo de resíduos e odores. Isso não apenas preserva a qualidade das caçambas, mas também promove uma imagem profissional da empresa. 
+
+  
+
+Responsabilidade ambiental: É importante adotar práticas sustentáveis no manuseio dos resíduos coletados nas caçambas. Isso pode incluir parcerias com empresas de reciclagem para a separação e reciclagem adequada de materiais reutilizáveis, contribuindo para a redução do impacto ambiental e a promoção da responsabilidade social corporativa. 
+
+ 
