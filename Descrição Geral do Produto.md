@@ -45,3 +45,12 @@ Melhoria da imagem da empresa: Empresas que oferecem serviços de aluguel de ca�
 
 Monitoramento e controle: Através do uso de tecnologias como GPS e sistemas de gestão, é possível monitorar a localização das caçambas, controlar os prazos de aluguel e otimizar as rotas de coleta e descarte.
 
+2.4
+
+Este projeto será para atender todas as necessidades de logística de caçamba.
+O futuro sistema de logística de caçamba envolve as seguintes macro - funcionalidades.
+Pedido de caçambas: visualizar os pedidos solicitados pelos usuários.
+Consulta de disponibilidade de caçambas: sistema vai fazer uma consulta aonde indicaremos a melhor caçamba para o cliente.
+Agendamento de caçamba: efetua a reserva para o cliente.
+Integração com IA: Permite que a inteligência artificial personalize o produto a gosto do cliente.
+Configuração ágil: configuração avançada de tamanho e cores. 
