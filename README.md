@@ -11,3 +11,6 @@ Gerenciamento de Clientes: Permite registrar informações detalhadas dos client
  Notificações e Comunicação: Oferece recursos de comunicação automatizada, como lembretes de agendamentos, confirmações de pedidos e alerta sobre devoluções atrasadas.
  Gestão de Manutenção: Permite agendar e registrar manutenções preventivas e corretivas nas caçambas, garantindo que estejam sempre em boas condições para uso.
  Suporte ao Cliente: Alguns sistemas podem incluir um portal de autoatendimento para clientes, onde eles podem visualizar informações sobre seus aluguéis, fazer solicitações e enviar feedback.
+
+# Introdução
+[Readme](https://github.com/techdump2024/aluguel-de-cacamba/tree/main/introdução)
