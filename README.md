@@ -13,7 +13,10 @@
  **Suporte ao Cliente: Alguns sistemas podem incluir um portal de autoatendimento para clientes, onde eles podem visualizar informações sobre seus aluguéis, fazer solicitações e enviar feedback.**
 
 # Introdução
-[Readme](https://github.com/techdump2024/aluguel-de-cacamba/tree/main/introdução)
+[Readme](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/introdução/README.md)
 
 # Descrição Geral do Produto
-[Readme](https://github.com/techdump2024/aluguel-de-cacamba/tree/main/Descrição%20Geral%20Do%20Produto)
+[Readme](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/Descrição%20Geral%20Do%20Produto/readme.md)
+
+# Requisitos Específicos
+[Readme](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/Requisitos-Especificos/README.MD)
