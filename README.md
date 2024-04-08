@@ -1,5 +1,5 @@
 # TECH DUMP
-![Logo](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/introdução/logo.png)
+![Logo](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/introdução/logo2.png)
 
 **O software de aluguel para caçambas é uma ferramenta projetada para ajudar empresas que trabalham no setor de locação de caçambas a gerenciar eficientemente suas operações. Ele é projetado para lidar com todas as etapas do processo de aluguel, desde o cadastro do cliente até a devolução da caçamba e a emissão de faturas. Abaixo está uma descrição geral dos principais recursos e funcionalidades que um software desse tipo pode oferecer:**
 **Gerenciamento de Clientes: Permite registrar informações detalhadas dos clientes, incluindo nome, endereço, contato, histórico de aluguel e preferências.**
@@ -14,7 +14,7 @@
  **Suporte ao Cliente: Alguns sistemas podem incluir um portal de autoatendimento para clientes, onde eles podem visualizar informações sobre seus aluguéis, fazer solicitações e enviar feedback.**
 
 # Introdução
-[Readme](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/introdução/logo2.png)
+[Readme](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/introdução/README.md)
 
 # Descrição Geral do Produto
 [Readme](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/Descrição%20Geral%20Do%20Produto/readme.md)
