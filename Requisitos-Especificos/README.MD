@@ -38,8 +38,5 @@
 
 **RN 3 Localização para posicionamento das caçambas:** Os clientes devem indicar o local exato onde desejam que a caçamba seja posicionada. É importante ter políticas claras sobre as condições mínimas de acesso e segurança para a colocação da caçamba, garantindo a integridade do equipamento e a segurança no local.
 
-<<<<<<< HEAD
-- **Proibição de resíduos proibidos:** Devem ser estabelecidas regras estritas sobre os tipos de resíduos que podem ser descartados nas caçambas. Materiais perigosos, como produtos químicos, materiais inflamáveis ou resíduos biológicos, geralmente são proibidos e devem ser descartados corretamente de acordo com a legislação local.
-=======
+**Proibição de resíduos proibidos:** Devem ser estabelecidas regras estritas sobre os tipos de resíduos que podem ser descartados nas caçambas. Materiais perigosos, como produtos químicos, materiais inflamáveis ou resíduos biológicos, geralmente são proibidos e devem ser descartados corretamente de acordo com a legislação local.
 **RN 4 Proibição de resíduos proibidos:** Devem ser estabelecidas regras estritas sobre os tipos de resíduos que podem ser descartados nas caçambas. Materiais perigosos, como produtos químicos, materiais inflamáveis ou resíduos biológicos, geralmente são proibidos e devem ser descartados corretamente de acordo com a legislação local.
->>>>>>> 714d917514d5253bdf67dcbe5fdbbd88902514ff
