@@ -24,3 +24,6 @@
 
 # Histórias de Usuários
 [Arquivo](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/Histórias%20de%20Usuário/História%20de%20Usuário.docx)
+
+# Protótipo
+[Telas](https://github.com/techdump2024/aluguel-de-cacamba/tree/main/Protótipo)
