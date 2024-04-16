@@ -48,4 +48,46 @@
 + O software deve ser capaz de funcionar em dispositivos com processadores ARM Cortex-A7 ou superior.
 + O software deve ter no mínimo 1GB de memória RAM disponível para funcionar.
 
+### 3.5 (Restrições de Software)
+
++ O software deve ser compatível com smartphones e tablets com tela touchscreen e resolução mínima de 720x1280 pixels.
++ O software deve ser capaz de funcionar em dispositivos com processadores ARM Cortex-A7 ou superior.
++ O software deve ter no mínimo 1GB de memória RAM disponível para funcionar.
++ O software deve ser capaz de utilizar os sensores de GPS, câmera e acelerômetro do dispositivo.
++ Android: Versão 5.0 ou superior
++ iOS: Versão 12.0 ou superior
+
+### 3.6 (Restrições de Ambiente)
++ Cobertura da Rede: O sistema deve funcionar em áreas com cobertura de internet móvel (3G, 4G ou 5G) para permitir a comunicação com o servidor e o uso de recursos como GPS e geolocalização.
++ Disponibilidade de GPS: O sistema deve funcionar em áreas com sinal de GPS para permitir a localização do usuário e da caçamba.
+
+### 3.7 (Lista de Riscos)
+#DESCRIÇÃO:
+            
++ Expectativas dos stakeholders não gerenciadas.
++ Subestimativa do tempo e esforço necessários para o desenvolvimento do software.
++ Recursos humanos insuficientes ou com habilidades inadequadas.
++ Falhas na arquitetura do software.
++ Bugs e defeitos no código.
++ Mudanças de prioridades não gerenciadas.
++ Mudanças no mercado ou nas necessidades dos clientes.
++ Novas tecnologias que podem tornar o software obsoleto.
++ Ações de concorrentes que podem afetar o mercado do software.
+
+#MITIGAÇÃO:
++ Definir claramente o escopo do projeto em um documento de requisitos.
++ Obter a aprovação das partes interessadas no documento de requisitos.
++ Comunicar-se frequentemente com as partes interessadas para garantir que suas expectativas estejam sendo atendidas.
++ Realizar uma estimativa precisa do tempo e esforço necessários para o desenvolvimento do software.
++ Envolver especialistas na tecnologia escolhida na estimativa.
++ Utilizar ferramentas de estimativa de software.
++ Escolher uma arquitetura de software adequada para o projeto.
++ Realizar testes rigorosos do software durante todo o ciclo de vida do projeto.
++ Comunicar-se de forma eficaz com a equipe de desenvolvimento.
++ Garantir que o hardware e a infraestrutura de TI sejam suficientes para o desenvolvimento e testes.
++ Monitorar o mercado e as necessidades dos clientes
++ Manter-se atualizado com as novas tecnologias.
+
+
+
 
