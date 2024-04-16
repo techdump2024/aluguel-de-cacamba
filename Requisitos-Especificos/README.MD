@@ -41,3 +41,11 @@
 **RN 4 Proibição de resíduos proibidos:** Devem ser estabelecidas regras estritas sobre os tipos de resíduos que podem ser descartados nas caçambas. Materiais perigosos, como produtos químicos, materiais inflamáveis ou resíduos biológicos, geralmente são proibidos e devem ser descartados corretamente de acordo com a legislação local.
 
 **RN 5 Proibição de resíduos proibidos:** Devem ser estabelecidas regras estritas sobre os tipos de resíduos que podem ser descartados nas caçambas. Materiais perigosos, como produtos químicos, materiais inflamáveis ou resíduos biológicos, geralmente são proibidos e devem ser descartados corretamente de acordo com a legislação local.
+
+### 3.4 (Restrições de Hardware)
+
++ O software deve ser compatível com smartphones e tablets com tela touchscreen e resolução mínima de 720x1280 pixels.
++ O software deve ser capaz de funcionar em dispositivos com processadores ARM Cortex-A7 ou superior.
++ O software deve ter no mínimo 1GB de memória RAM disponível para funcionar.
+
+
