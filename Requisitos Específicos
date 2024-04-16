@@ -99,3 +99,58 @@ Manutenção e limpeza das caçambas: A empresa de aluguel de caçambas deve gar
 Responsabilidade ambiental: É importante adotar práticas sustentáveis no manuseio dos resíduos coletados nas caçambas. Isso pode incluir parcerias com empresas de reciclagem para a separação e reciclagem adequada de materiais reutilizáveis, contribuindo para a redução do impacto ambiental e a promoção da responsabilidade social corporativa. 
 
  
+3.4.	(Restrições de Hardware)
+
+
+
+O software deve ser compatível com smartphones e tablets com tela touchscreen e resolução mínima de 720x1280 pixels.
+
+
+
+O software deve ser capaz de funcionar em dispositivos com processadores ARM Cortex-A7 ou superior.
+
+
+
+O software deve ter no mínimo 1GB de memória RAM disponível para funcionar.
+
+
+3.5 (Restrições de Software)
+
+
+
+
+O software deve ser compatível com smartphones e tablets com tela touchscreen e resolução mínima de 720x1280 pixels.
+
+
+
+O software deve ser capaz de funcionar em dispositivos com processadores ARM Cortex-A7 ou superior.
+
+
+
+O software deve ter no mínimo 1GB de memória RAM disponível para funcionar.
+
+
+
+O software deve ser capaz de utilizar os sensores de GPS, câmera e acelerômetro do dispositivo.
+
+
+
+Android: Versão 5.0 ou superior
+
+
+
+iOS: Versão 12.0 ou superior
+
+
+
+3.6 (Restrições de Ambiente)
+
+
+
+Cobertura da Rede: O sistema deve funcionar em áreas com cobertura de internet móvel (3G, 4G ou 5G) para permitir a comunicação com o servidor e o uso de recursos como GPS e geolocalização.
+
+
+
+Disponibilidade de GPS: O sistema deve funcionar em áreas com sinal de GPS para permitir a localização do usuário e da caçamba.
+
+
