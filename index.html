@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Tech Dump</title>
     <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/obrigado.css">
   </head>
   <body>
       <!--Imagem-Logo-->
@@ -51,6 +52,17 @@
       <div class="more-info">
         <h2>Login</h2>
         <p>Ir para página de Login <a href="./login.html">Clicando aqui!</a></p>
+      </div>
+      <div class="formulario">
+        <h1>Formulaário de Contato</h1>
+        <form action="https://formsubmit.co/fernandokaiba2019@hotmail.com" method="POST">
+          <input type="text" name="name" required>
+          <input type="email" name="email" required>
+          <textarea name="message" placeholder="Deixe uma mensagem" required></textarea>
+          <input type="hidden" name="_captcha" value="false">
+          <input type="hidden" name="_next" value="http://127.0.0.1:5500/obrigado.html">
+          <button type="submit">Enviar</button>
+     </form>
       </div>
     </div>
   </body>
