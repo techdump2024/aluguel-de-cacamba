@@ -22,3 +22,6 @@
 
 # Critérios De Funcionalidade
 [Readme](https://github.com/techdump2024/aluguel-de-cacamba/blob/main/Crit%C3%A9rios%20De%20Funcionalidade/readme.md)
+
+# Trello
+[Board](https://trello.com/b/5wEadcJT/aluguel-de-cacambas)
