@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Clientes</title>
-    <link rel="stylesheet" href="css/clientes.css">
+    <link rel="stylesheet" href="css/clientes.css" />
   </head>
   <body>
     <!--Topo da página-->
@@ -12,52 +12,58 @@
       <h1>Clientes</h1>
     </div>
     <!--Campos-->
-    <div>
-      <label>Nome:</label>
-      <input type="text" />
-    </div>
-    <div>
+    <div class="box-input">
+      <div>
+        <label>Nome:</label>
+        <input type="text" />
+      </div>
+      <div>
         <label for="cpf-cnpj">Digite seu CPF/CNPJ:</label>
-        <input type="number" name="cpf-cnpj">
-    </div>
-    <div>
+        <input type="number" name="cpf-cnpj" />
+      </div>
+      <div>
         <label for="estado">Selecione o estado:</label>
         <select name="estado">
-            <option value="Acre">AC</option>
-            <option value="Alagoas">AL</option>
-            <option value="Amapá">AP</option>
-            <option value="Amazonas">AM</option>
-            <option value="Bahia">BA</option>
-            <option value="Ceará">CE</option>
-            <option value="Distrito Federal">DF</option>
-            <option value="Espírito Santo">ES</option>
-            <option value="Goiás">GO</option>
-            <option value="Maranhão">MA</option>
-            <option value="Mato Grosso">MT</option>
-            <option value="Mato Grosso do Sul">MS</option>
-            <option value="Minas Gerais">MG</option>
-            <option value="Pará">PA</option>
-            <option value="Paraiba">PB</option>
-            <option value="Paraná">PR</option>
-            <option value="Pernambuco">PE</option>
-            <option value="Piauí">PI</option>
-            <option value="Rio De Janeiro">RJ</option>
-            <option value="Rio Grande do Sul">RS</option>
-            <option value="Rondônia">RO</option>
-            <option value="Roraima">RR</option>
-            <option value="Santa Catarina">SC</option>
-            <option value="São Paulo">SP</option>
-            <option value="Sergipe">SE</option>
-            <option value="Tocantins">TO</option>
+          <option value="Acre">AC</option>
+          <option value="Alagoas">AL</option>
+          <option value="Amapá">AP</option>
+          <option value="Amazonas">AM</option>
+          <option value="Bahia">BA</option>
+          <option value="Ceará">CE</option>
+          <option value="Distrito Federal">DF</option>
+          <option value="Espírito Santo">ES</option>
+          <option value="Goiás">GO</option>
+          <option value="Maranhão">MA</option>
+          <option value="Mato Grosso">MT</option>
+          <option value="Mato Grosso do Sul">MS</option>
+          <option value="Minas Gerais">MG</option>
+          <option value="Pará">PA</option>
+          <option value="Paraiba">PB</option>
+          <option value="Paraná">PR</option>
+          <option value="Pernambuco">PE</option>
+          <option value="Piauí">PI</option>
+          <option value="Rio De Janeiro">RJ</option>
+          <option value="Rio Grande do Sul">RS</option>
+          <option value="Rondônia">RO</option>
+          <option value="Roraima">RR</option>
+          <option value="Santa Catarina">SC</option>
+          <option value="São Paulo">SP</option>
+          <option value="Sergipe">SE</option>
+          <option value="Tocantins">TO</option>
         </select>
-    </div>
-    <div>
+      </div>
+      <div>
         <label>Endereço:</label>
-        <input type="text">
-    </div>
-    <div>
+        <input type="text" />
+      </div>
+      <div>
         <label for="numero">Número:</label>
-        <input type="number">
+        <input type="number" />
+      </div>
+      <div>
+        <label for="purcahse_date">Data de locação:</label>
+        <input type="date" name="purcahse_date" id="purcahse_date" />
+      </div>
     </div>
   </body>
 </html>
